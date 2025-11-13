@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Aman-Bam.github.io/apunisarkar",
+  "homepage": "/apunisarkar",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -15,6 +15,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.1.17",
     "@vercel/speed-insights": "^1.2.0",
+    "lucide-react": "^0.553.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
@@ -31,7 +32,7 @@
     "gh-pages": "^6.3.0",
     "globals": "^16.5.0",
     "postcss": "^8.5.6",
-    "tailwindcss": "^3.4.18",
+    "tailwindcss": "^4.1.17",
     "vite": "^7.2.2"
   }
 }
